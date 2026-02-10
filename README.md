@@ -1,6 +1,6 @@
 # PedalGuard
 
-[![Open in Codeanywhere](<img width="512" height="512" alt="android_14191" src="https://github.com/user-attachments/assets/12fc622e-bffb-4432-be73-2c9751c00d59" />](https://www.python.org/)[![Open in Codeanywhere](https://img.shields.io/badge/django-5.1.4-3f9753)]([https://www.python.org/](https://www.djangoproject.com/))
+[![Open in Codeanywhere](https://img.shields.io/badge/andoid-OS-green)]([https://www.python.org/](https://www.android.com/)[![Open in Codeanywhere](https://img.shields.io/badge/django-5.1.4-3f9753)]([https://www.python.org/](https://www.djangoproject.com/))
 ### PedalGuard: A Virtual Assitant for the Formation Process of Ciclovía Guardians in Bogotá City
 This Android application, offers an offline tool to support the formation process of the Ciclovía Guardians of the Bogota city (Colombia). It has three modules that cover elements such as first assistance, radio communication codes and event report generation. All of these modules are designed under a multi-modal scheme to present the information in a more apprehensible form. Additionally, a problem based learning (PBL) process is used to improve the traineeship of guradians. 
 # PedalGuard Manual
