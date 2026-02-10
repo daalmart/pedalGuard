@@ -8,13 +8,12 @@ A detailed manual can be found here: [PedalGuard_Manual.pdf](https://github.com/
 # PedalGuard Install process 
 
 **1. First, download the file PedalGuard.apk to your Android device from the following link**  
-```
-*https://drive.google.com/file/d/10HsjbtLSQF4ol_-m2GI1PWCV89-P-O_T/view?usp=sharing*
-```
+
+[PedalGuard.apk](https://drive.google.com/file/d/10HsjbtLSQF4ol_-m2GI1PWCV89-P-O_T/view?usp=sharing)
+
 **2. Click on the file to start the installation**
-```
 Some alerts could appear related to security and application origin. Choose to istall it anyway.
-```
+
 **3. Find the application PedalGuard among the list of your Andorid applications and start to use it.**
 
 ## If you download PedalGuard.apk to a desktop computer, you should transfer it via USB, whatsApp or another, to your Android device.
