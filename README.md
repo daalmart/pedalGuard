@@ -12,6 +12,7 @@ A detailed manual can be found here: [PedalGuard_Manual.pdf](https://github.com/
 [PedalGuard.apk](https://drive.google.com/file/d/10HsjbtLSQF4ol_-m2GI1PWCV89-P-O_T/view?usp=sharing)
 
 **2. Click on the file to start the installation**
+
 Some alerts could appear related to security and application origin. Choose to istall it anyway.
 
 **3. Find the application PedalGuard among the list of your Andorid applications and start to use it.**
