@@ -1,1 +1,20 @@
 # PedalGuard
+
+[![Open in Codeanywhere](https://img.shields.io/badge/python-3.11.5-3f9753)](https://www.python.org/)[![Open in Codeanywhere](https://img.shields.io/badge/django-5.1.4-3f9753)]([https://www.python.org/](https://www.djangoproject.com/))
+### PedalGuard: A Virtual Assitant for the Formation Process of Ciclovía Guardians in Bogotá City
+This Android application, offers an offline tool to support the formation process of the Ciclovía Guardians of the Bogota city (Colombia). It has three modules that cover elements such as first assistance, radio communication codes and event report generation. All of these modules are designed under a multi-modal scheme to present the information in a more apprehensible form. Additionally, a problem based learning (PBL) process is used to improve the traineeship of guradians. 
+
+# PedalGuard Install process 
+
+**1. First, download the file PedalGuard.apk to your Android device from the following link**  
+```
+https://drive.google.com/file/d/10HsjbtLSQF4ol_-m2GI1PWCV89-P-O_T/view?usp=sharing
+```
+**2. Click on the file to start the installation**
+```
+Some alerts could appear related to security and application origin. Choose to istall it anyway.
+```
+
+**3. Find the application PedalGuard among the list of your Andorid applications and start to use it.**
+
+## If you dwonload PedalGuard.apk to a desktop computer, you should transfer it via USB, whatsApp or other, to your Android device.
