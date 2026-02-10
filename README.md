@@ -9,7 +9,7 @@ A detailed manual can be found here: [PedalGuard_Manual.pdf](https://github.com/
 
 **1. First, download the file PedalGuard.apk to your Android device from the following link**  
 ```
-[PedalGuard](https://drive.google.com/file/d/10HsjbtLSQF4ol_-m2GI1PWCV89-P-O_T/view?usp=sharing)
+*https://drive.google.com/file/d/10HsjbtLSQF4ol_-m2GI1PWCV89-P-O_T/view?usp=sharing*
 ```
 **2. Click on the file to start the installation**
 ```
